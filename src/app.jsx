@@ -20,6 +20,7 @@ class App extends Component {
 
   config = {
     pages: [
+      'pages/books/books',
       'pages/index/index'
     ],
     window: {
